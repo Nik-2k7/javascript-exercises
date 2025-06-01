@@ -3,7 +3,6 @@
 ## Step 1: Learn
 First, look at the example code in `joinStrings-example.js`. Try and predict what the `console.log` output will be. When you're ready, run the test:
 ```bash
-npm test joinStrings-example.spec.js
 ```
 If you saw anything unexpected, feel free to review the code again.
 
